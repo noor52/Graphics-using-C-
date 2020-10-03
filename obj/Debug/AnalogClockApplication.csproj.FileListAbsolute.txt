@@ -1,0 +1,7 @@
+E:\graphics\AnalogClockApplication\bin\Debug\AnalogClockApplication.exe
+E:\graphics\AnalogClockApplication\bin\Debug\AnalogClockApplication.pdb
+E:\graphics\AnalogClockApplication\obj\Debug\ResolveAssemblyReference.cache
+E:\graphics\AnalogClockApplication\obj\Debug\AnalogClockApplication.Form1.resources
+E:\graphics\AnalogClockApplication\obj\Debug\AnalogClockApplication.csproj.GenerateResource.Cache
+E:\graphics\AnalogClockApplication\obj\Debug\AnalogClockApplication.exe
+E:\graphics\AnalogClockApplication\obj\Debug\AnalogClockApplication.pdb
